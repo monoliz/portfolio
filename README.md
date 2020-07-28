@@ -1,4 +1,3 @@
 # portfolio
-all projects
 hello world
-i love :microphone and :pizza
+i love :microphone: and :pizza:
